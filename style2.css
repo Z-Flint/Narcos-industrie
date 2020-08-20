@@ -1,0 +1,85 @@
+  _____  _____ _____ 
+ / ____|/ ____/ ____|
+| |    | (___| (___  
+| |     \___ \\___ \ 
+| |____ ____) |___) |
+ \_____|_____/_____/ 
+
+body, html
+{
+  margin:0;
+  padding: 0;
+  font-family: 'Moderne Sans', sans-serif;
+  /*background:content-box radial-gradient(#EA2027, #1e272e, #353b48, #b81568, #ced6e0);*/
+  background-color: #ced6e0;
+}
+
+@font-face {
+    font-family: 'Moderne Sans';
+    src: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/moderne_sans.woff2);
+}
+
+header 
+{
+  height: 200px;
+  text-align: center;
+  /*background-color: #353b48;*/
+  background-image: url(./narcos.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 58%;
+}
+/*
+#bg
+{
+    background-image: url(./bg1.png);
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    
+}*/
+/*
+#bg
+{
+    background:content-box radial-gradient(#EA2027, #1e272e, #353b48, #b81568, #ced6e0);
+}
+*/
+.vod, video
+{
+    width: 90%;
+    padding: 60px;
+}
+
+.bouton
+{
+    width: 220px;
+    height: 30px;
+    border-radius: 100px;
+    background-color: #b81568;
+    border: 2px solid #353b48;
+    color: white;
+    font-size: 17px;
+    position: relative;
+    top:10px; left: 550px;
+    margin-bottom: 10px;
+  
+}
+
+.bouton, p
+{
+  padding:15px 10px 5px;
+}
+
+.bouton:hover
+{
+    transform: scale(1.1);
+    background: #353b48;
+    border-color: #b81568;
+    text-decoration-color: #b81568;
+}
+
+.hbouton,a
+{
+    text-decoration: none;
+    color: white;
+}
