@@ -10,3 +10,5 @@ Montage photo réalisé par notre cher délégué Mr.Rayane
 ![photo3](https://user-images.githubusercontent.com/68733689/90731749-61c82800-e2ca-11ea-96ab-64c539cd71da.jpg)
 
 
+
+![fond](https://user-images.githubusercontent.com/68733689/90745833-a48cfe80-e2d0-11ea-86a8-73a48d64dcf1.jpg)
