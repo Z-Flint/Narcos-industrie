@@ -1,0 +1,104 @@
+
+      ___           ___           ___           ___ 
+     /\__\         /\  \         /\__\         /\__\
+    /:/  /         \:\  \       /::|  |       /:/  /
+   /:/__/           \:\  \     /:|:|  |      /:/  / 
+  /::\  \ ___       /::\  \   /:/|:|__|__   /:/  /  
+ /:/\:\  /\__\     /:/\:\__\ /:/ |::::\__\ /:/__/   
+ \/__\:\/:/  /    /:/  \/__/ \/__/~~/:/  / \:\  \   
+      \::/  /    /:/  /            /:/  /   \:\  \  
+      /:/  /     \/__/            /:/  /     \:\  \ 
+     /:/  /                      /:/  /       \:\__\
+     \/__/                       \/__/         \/__/
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="style.css" />
+      <title>Page de présentation</title>
+</head>
+<body>
+  <header>
+      <div id="menu-bar">
+			<div id="menu" onclick="onClickMenu()">
+				<div id="bar1" class="bar"></div>
+				<div id="bar2" class="bar"></div>
+				<div id="bar3" class="bar"></div>
+      </div>
+        <ul class="nav" id="nav">
+          <li><a href="narcos2.php">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Gallery</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+        <div class="container">
+        <div class="item">
+        <a href="#">Connexion</a>
+      </div>
+        </div>
+        </div>
+        <div class="recherche">
+       <!-- <label for="text">search</label>-->
+        <input type="search" name="Search" placeholder="Search">
+  </header>
+    <div class="menu-bg" id="menu-bg"></div>
+    <script src="script.js"></script>
+      <div class="pimg1">
+        <div class="ptext">
+          <span class="border">
+          South Africa flavor
+          </span>
+        </div>
+      </div>    
+  <section class="section section-light">
+    <p class="texte"> Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
+       facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
+       non veniam cupiditate</br> minus libero dolores earum nisi.</p>
+  </section>
+    <div class="pimg2">
+      <div class="ptext">
+        <span class="border trans">
+          Image Two Text
+        </span>
+      </div>
+    </div>
+  <section class="section section-dark"></section>
+    <div class="pimg3">
+      <div class="ptext">
+        <span class="border trans">
+          Image Three Text
+        </span>
+      </div>
+    </div>
+  <section class="section section-dark"></section>
+    <div class="pimg1">
+      <div class="ptext">
+        <span class="border">
+          Traversy Media
+        </span>
+      </div>
+    </div>
+  <section class="section section-dark"></section>
+    <div class="pimg1">
+      <div class="ptext">
+        <span class="border">
+          Traversy Media
+        </span>
+      </div>
+    </div>
+  <section class="section section-dark"></section>
+  <div class="pimg1">
+      <div class="ptext">
+        <span class="border">
+          Traversy Media
+        </span>
+      </div>
+    </div>
+
+</body>
+</html>
