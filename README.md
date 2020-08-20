@@ -12,3 +12,7 @@ Montage photo réalisé par notre cher délégué Mr.Rayane
 
 
 ![fond](https://user-images.githubusercontent.com/68733689/90745833-a48cfe80-e2d0-11ea-86a8-73a48d64dcf1.jpg)
+
+
+![photo1](https://user-images.githubusercontent.com/68733689/90748185-2598c580-e2d2-11ea-9227-6fdd7710004e.jpg)
+
