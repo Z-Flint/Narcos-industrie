@@ -11,7 +11,11 @@ body, html
   padding: 0;
   font-family: 'Moderne Sans', sans-serif;
   /*background:content-box radial-gradient(#EA2027, #1e272e, #353b48, #b81568, #ced6e0);*/
-  background-color: #ced6e0;
+  /*background-color: #ced6e0;*/
+  background-image: url(./fond.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 @font-face {
