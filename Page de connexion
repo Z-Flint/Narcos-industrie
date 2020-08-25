@@ -34,7 +34,7 @@ Le nom du fichier est "connexion.php
           <li><a href="narcos.php">Home</a></li>
           <li><a href="#">About</a></li>
           <li><a href="#">Blog</a></li>
-          <li><a href="narcos2.php">Gallery</a></li>
+          <li><a href="narcos2.php">Nouveauté</a></li>
           <li><a href="#">Contact</a></li>
         </ul>
       </div>
