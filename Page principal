@@ -18,7 +18,7 @@ Comme sa on peut surfer de page en page :)
 <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <link rel="stylesheet" href="style.css" />
+      <link rel="stylesheet" href="style2.css" />
       <title>Page de présentation</title>
 </head>
 <body>
@@ -30,7 +30,7 @@ Comme sa on peut surfer de page en page :)
 				<div id="bar3" class="bar"></div>
       </div>
         <ul class="nav" id="nav">
-          <li><a href="narcos2.php">Home</a></li>
+          <li><a href="narcos.php">Home</a></li>
           <li><a href="#">About</a></li>
           <li><a href="#">Blog</a></li>
           <li><a href="#">Gallery</a></li>
@@ -39,7 +39,7 @@ Comme sa on peut surfer de page en page :)
       </div>
         <div class="container">
         <div class="item">
-        <a href="#">Connexion</a>
+        <a href="connexion.php">Connexion</a>
       </div>
         </div>
         </div>
@@ -52,31 +52,42 @@ Comme sa on peut surfer de page en page :)
       <div class="pimg1">
         <div class="ptext">
           <span class="border">
-          South Africa flavor
+          Latin America flavor
           </span>
         </div>
       </div>    
-  <section class="section section-light">
+  <section class=" section-black">
     <p class="texte"> Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
-       facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
-       non veniam cupiditate</br> minus libero dolores earum nisi.</p>
+      facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
+      non veniam cupiditate</br> minus libero dolores earum nisi.
+    </p>
   </section>
     <div class="pimg2">
       <div class="ptext">
-        <span class="border trans">
+        <span class="border">
           Image Two Text
         </span>
       </div>
     </div>
-  <section class="section section-dark"></section>
+  <section class="section-green">
+  <p class="texte"> Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
+    facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
+    non veniam cupiditate</br> minus libero dolores earum nisi.
+  </p>
+  </section>
     <div class="pimg3">
       <div class="ptext">
-        <span class="border trans">
+        <span class="border">
           Image Three Text
         </span>
       </div>
     </div>
-  <section class="section section-dark"></section>
+  <section class="section-blue">
+  <p class="texte"> Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
+    facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
+    non veniam cupiditate</br> minus libero dolores earum nisi.
+  </p>
+  </section>
     <div class="pimg1">
       <div class="ptext">
         <span class="border">
@@ -84,7 +95,12 @@ Comme sa on peut surfer de page en page :)
         </span>
       </div>
     </div>
-  <section class="section section-dark"></section>
+  <section class="section-purple">
+  <p class="texte"> Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
+    facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
+    non veniam cupiditate</br> minus libero dolores earum nisi.
+  </p>
+  </section>
     <div class="pimg1">
       <div class="ptext">
         <span class="border">
@@ -92,7 +108,12 @@ Comme sa on peut surfer de page en page :)
         </span>
       </div>
     </div>
-  <section class="section section-dark"></section>
+  <section class="section-pink">
+  <p class="texte"> Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
+    facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
+    non veniam cupiditate</br> minus libero dolores earum nisi.
+  </p>
+  </section>
   <div class="pimg1">
       <div class="ptext">
         <span class="border">
@@ -100,6 +121,6 @@ Comme sa on peut surfer de page en page :)
         </span>
       </div>
     </div>
-
 </body>
 </html>
+
