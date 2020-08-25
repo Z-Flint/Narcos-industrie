@@ -56,12 +56,18 @@ Comme sa on peut surfer de page en page :)
           </span>
         </div>
       </div>    
-  <section class=" section-black">
-    <p class="texte"> Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
-      facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
-      non veniam cupiditate</br> minus libero dolores earum nisi.
-    </p>
-  </section>
+      <section class="section-black">
+      <div class="image">
+        <img class="image__img" src="./photo2.jpg" alt="Bricks">
+        <div class="image__overlay image__overlay--primary">
+            <div class="image__title">Bricks</div>
+            <p class="image__description">
+            Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
+            facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
+            non veniam cupiditate</br> minus libero dolores earum nisi.</p>
+        </div>
+    </div>
+</section>
     <div class="pimg2">
       <div class="ptext">
         <span class="border">
@@ -69,12 +75,18 @@ Comme sa on peut surfer de page en page :)
         </span>
       </div>
     </div>
-  <section class="section-green">
-  <p class="texte"> Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
-    facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
-    non veniam cupiditate</br> minus libero dolores earum nisi.
-  </p>
-  </section>
+    <section class="section-pink">
+      <div class="image">
+        <img class="image__img" src="./photo3.jpg" alt="Bricks">
+        <div class="image__overlay image__overlay--primary">
+            <div class="image__title">Bricks</div>
+            <p class="image__description">
+            Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
+            facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
+            non veniam cupiditate</br> minus libero dolores earum nisi.</p>
+        </div>
+    </div>
+</section>
     <div class="pimg3">
       <div class="ptext">
         <span class="border">
@@ -82,12 +94,18 @@ Comme sa on peut surfer de page en page :)
         </span>
       </div>
     </div>
-  <section class="section-blue">
-  <p class="texte"> Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
-    facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
-    non veniam cupiditate</br> minus libero dolores earum nisi.
-  </p>
-  </section>
+    <section class="section-yellow">
+      <div class="image">
+        <img class="image__img" src="./photo3.jpg" alt="Bricks">
+        <div class="image__overlay image__overlay--primary">
+            <div class="image__title">Bricks</div>
+            <p class="image__description">
+            Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
+            facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
+            non veniam cupiditate</br> minus libero dolores earum nisi.</p>
+        </div>
+    </div>
+</section>
     <div class="pimg1">
       <div class="ptext">
         <span class="border">
@@ -95,12 +113,18 @@ Comme sa on peut surfer de page en page :)
         </span>
       </div>
     </div>
-  <section class="section-purple">
-  <p class="texte"> Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
-    facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
-    non veniam cupiditate</br> minus libero dolores earum nisi.
-  </p>
-  </section>
+    <section class="section-purple">
+      <div class="image">
+        <img class="image__img" src="./photo2.jpg" alt="Bricks">
+        <div class="image__overlay image__overlay--primary">
+            <div class="image__title">Bricks</div>
+            <p class="image__description">
+            Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
+            facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
+            non veniam cupiditate</br> minus libero dolores earum nisi.</p>
+        </div>
+    </div>
+</section>
     <div class="pimg1">
       <div class="ptext">
         <span class="border">
@@ -108,12 +132,18 @@ Comme sa on peut surfer de page en page :)
         </span>
       </div>
     </div>
-  <section class="section-pink">
-  <p class="texte"> Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
-    facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
-    non veniam cupiditate</br> minus libero dolores earum nisi.
-  </p>
-  </section>
+    <section class="section-white">
+      <div class="image">
+        <img class="image__img" src="./photo2.jpg" alt="Bricks">
+        <div class="image__overlay image__overlay--primary">
+            <div class="image__title">Bricks</div>
+            <p class="image__description">
+            Lorem ipsum dolor sit amet consectetur</br> adipisicing elit. 
+            facilis doloremque atque eos et quos</br> debitis doloribus ipsa quam corporis? </br>Neque aspernatur, 
+            non veniam cupiditate</br> minus libero dolores earum nisi.</p>
+        </div>
+    </div>
+</section>
   <div class="pimg1">
       <div class="ptext">
         <span class="border">
