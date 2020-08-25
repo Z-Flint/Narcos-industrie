@@ -33,7 +33,7 @@ Comme sa on peut surfer de page en page :)
           <li><a href="narcos.php">Home</a></li>
           <li><a href="#">About</a></li>
           <li><a href="#">Blog</a></li>
-          <li><a href="#">Gallery</a></li>
+          <li><a href="narcos2.php">Nouveauté</a></li>
           <li><a href="#">Contact</a></li>
         </ul>
       </div>
