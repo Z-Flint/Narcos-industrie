@@ -5,14 +5,17 @@
 | |     \___ \\___ \ 
 | |____ ____) |___) |
  \_____|_____/_____/ 
- body, html
+
+
+
+body, html
 {
   margin:0;
   padding: 0;
   font-family: 'Moderne Sans', sans-serif;
   /*background:content-box radial-gradient(#EA2027, #1e272e, #353b48, #b81568, #ced6e0);*/
   /*background-color: #ced6e0;*/
-  background-image: url(./fond.jpg);
+  background-image: url(../image/fond.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -43,7 +46,7 @@ header
 header:hover
 {
     background: rgba(255,255,255,0.8); 
-    background-image: url(./narcos1.png);
+    background-image: url(../image/narcos1.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 58%;
@@ -88,6 +91,9 @@ header:hover
     text-decoration: none;
     color: white;
 }
+
+
+
 
 
 
