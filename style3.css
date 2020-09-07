@@ -9,17 +9,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 body, html
 {
   margin:0;
@@ -27,7 +16,7 @@ body, html
   font-family: 'Moderne Sans', sans-serif;
   font-weight:400;
   line-height:1.8em;
-  background-image: url(./fond.jpg);
+  background-image: url(../image/fond.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -47,13 +36,11 @@ header
 header:hover
 {
     background: rgba(255,255,255,0.8); 
-    background-image: url(./narcos1.png);
+    background-image: url(../image/narcos1.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 58%;
 }
-
-
 
 /*
 .container
@@ -206,7 +193,7 @@ a
 
 .login-box
 {
-    width: 330px;
+    width: 350px;
     height: 420px;
     background: rgba(0, 0, 0, 0.5);
     color: #fff;
