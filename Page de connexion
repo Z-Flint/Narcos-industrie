@@ -19,7 +19,7 @@ Le nom du fichier est "connexion.php
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style3.css"/>
+    <link rel="stylesheet" href="./css/style3.css"/>
     <title>Page de connexion</title>
 </head>
 <body>
@@ -31,24 +31,23 @@ Le nom du fichier est "connexion.php
 				<div id="bar3" class="bar"></div>
       </div>
         <ul class="nav" id="nav">
-          <li><a href="narcos.php">Home</a></li>
+          <li><a href="./index.php">Home</a></li>
           <li><a href="#">About</a></li>
           <li><a href="#">Blog</a></li>
-          <li><a href="narcos2.php">Nouveauté</a></li>
+          <li><a href="./narcos2.php">Nouveauté</a></li>
           <li><a href="#">Contact</a></li>
         </ul>
       </div>
         </div>
         </div>
         <div class="recherche">
-       <!-- <label for="text">search</label>-->
         <input type="search" name="Search" placeholder="Search">
-</div>
+      </div>
   </header>
   <div class="menu-bg" id="menu-bg"></div>
-    <script src="script.js"></script>
+    <script src="./JS/script.js"></script>
     <div class="login-box">
-    <img src="./avatar.jpg" class="avatar">
+    <img src="./image/avatar.jpg" class="avatar">
        <h1>Narcos N'cook</h1>
          <form>
              <p>Nom d'utilsateur</p>
@@ -56,7 +55,7 @@ Le nom du fichier est "connexion.php
              <p>Mot de passe</p>
              <input type="password" name="password" placeholder="Enter password">
              <input type="submit" name="submit" value="Envoyer">
-             <a href="#">Mot de passe oublié</a>
+             <a href="#">Forget password / <a href ="#">Creat an account</a>
          </form>
     </div>
 </body>
